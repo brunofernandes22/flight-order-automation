@@ -1,0 +1,31 @@
+{
+	"1": [
+		{
+			"from":"YUL",
+			"to" : "YYZ"
+		},
+		{
+			"from":"YUL",
+			"to" : "YYC"
+		},
+		{
+			"from":"YUL",
+			"to" : "YVR"
+		}
+	],
+	"2": [
+	{
+			"from":"YUL",
+			"to" : "YYZ"
+		},
+		{
+			"from":"YUL",
+			"to" : "YYC"
+		},
+		{
+			"from":"YUL",
+			"to" : "YVR"
+		}
+	]
+	
+}
